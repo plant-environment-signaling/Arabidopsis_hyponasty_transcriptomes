@@ -1,5 +1,6 @@
 # Arabidopsis_hyponasty_transcriptomes
 Scripts for Küpers et al: Local light signalling at the leaf tip drives remote differential petiole growth through auxin-gibberellin dynamics
+The sequencing data have been deposited at https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi, accession number GSE218944.
 
 MetaData = Description of treatment, timepoint, tissue and replicate for each sample. 
 
